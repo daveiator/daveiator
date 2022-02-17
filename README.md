@@ -1,5 +1,4 @@
 - Hi, I’m David Bühler / David BHLR / daveiator
-- Currently studying in University
 
 - Mail: david@buehler-online.de
 - Discord: @daveiator#0922
