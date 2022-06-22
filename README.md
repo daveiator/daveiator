@@ -21,7 +21,7 @@
 
 
 [![Instagram Badge](https://img.shields.io/badge/@-david_bhlr-E4405F?logo=instagram&logoColor=white&link=https://www.instagram.com/david_bhlr)](https://www.instagram.com/david_bhlr)
-[![Discord Badge](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white&link=https://discordapp.com/users/316270897638146059)](https://discordapp.com/users/316270897638146059)
+[![Discord Badge](https://img.shields.io/badge/contact-daveiator#0922-blue?logo=discord&logoColor=white&link=https://discordapp.com/users/316270897638146059)](https://discordapp.com/users/316270897638146059)
 
 <br>
   
