@@ -3,7 +3,7 @@
 <div style="background-color:#121212">
 <div style="color:#fff">
   
-# Hi ,I am David!
+# Hi, I'm David!
   
 ![](https://komarev.com/ghpvc/?username=daveiator&color=blue)<br>
 
